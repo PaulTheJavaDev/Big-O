@@ -1,0 +1,6 @@
+Big O(N) is text
+example: one for loop
+
+Big O(^number) is text
+example: number nested for loops
+
